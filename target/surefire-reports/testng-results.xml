@@ -1,0 +1,16 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.training.testcases.BaseTest" duration-ms="1" started-at="2021-03-03T12:54:35Z" finished-at="2021-03-03T12:54:35Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="1" started-at="2021-03-03T12:54:35Z" finished-at="2021-03-03T12:54:35Z">
+      <class name="com.training.testcases.BaseTest">
+        <test-method status="PASS" signature="setUpSuite()" name="setUpSuite" is-config="true" duration-ms="1608" started-at="2021-03-03T12:54:33Z" finished-at="2021-03-03T12:54:35Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDownSuite()" name="tearDownSuite" is-config="true" duration-ms="586" started-at="2021-03-03T12:54:35Z" finished-at="2021-03-03T12:54:35Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
