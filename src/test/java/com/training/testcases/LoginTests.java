@@ -52,7 +52,7 @@ public class LoginTests extends  BaseTest{
         System.out.println(data.get("firstname"));
     }
 
-
+//Test the sync
     @Test
     public void amazon(Method m) throws Exception {
         Driver.setUpDriver("chrome");
